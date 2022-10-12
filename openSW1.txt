@@ -2,4 +2,5 @@
 
 int main(){
 	printf("opensourceSWbasic");
+	printf("hello world!");
 }
