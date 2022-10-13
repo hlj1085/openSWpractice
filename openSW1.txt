@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("ABCDEFG");
-	printf("가나다라마바사");
+	int num = 0;
+	int ary[3]={1,2,3};
 }
